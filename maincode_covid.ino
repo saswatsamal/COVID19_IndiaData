@@ -31,7 +31,7 @@ Adafruit_SSD1306 display(OLED_RESET);
     // "XXXXXXXXXXXXXXX" represents your 16 digit API Key generated from Thingspeak
     const char* url = "/apps/thinghttp/send_request?api_key=XXXXXXXXXXXXXXXX"; //cases
     const char* url2 = "/apps/thinghttp/send_request?api_key=XXXXXXXXXXXXXXXX"; // deaths
-    const char* url3 = "/apps/thinghttp/send_request?api_key=XXXXXXXXXXXXXXXX //recovered
+    const char* url3 = "/apps/thinghttp/send_request?api_key=XXXXXXXXXXXXXXXX"; //recovered
     HTTPClient http; 
 void setup() {
 
