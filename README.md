@@ -1,5 +1,5 @@
 # COVID19 India Data
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)      https://forthebadge.com/images/badges/built-with-love.svg
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)      [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 <a href="https://www.ardu-badge.com/HttpClient" rel="nofollow"><img src="https://camo.githubusercontent.com/f525e6f5b7e32b1598e692036b0ba8925dd8e824/68747470733a2f2f7777772e617264752d62616467652e636f6d2f62616467652f48747470436c69656e742e7376673f" alt="arduino-library-badge" data-canonical-src="https://www.ardu-badge.com/badge/HttpClient.svg?" style="max-width:100%;"></a>
 
