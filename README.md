@@ -21,5 +21,8 @@ Information from: https://www.who.int/health-topics/coronavirus
 COVID19 is spreading very rapidly but most of the Indian people are unaware about it. So to make them aware and give them the current statistics this project as been developed.
 This project is completely based on Realtime data from the Ministry of Family Welfare & Health through API (via Thingspeak) and the stats are displayed on the OLED Display. The main controller is the NodeMCU.
 
-
+<h3> Links of the Libraries. </h3>
+1. ESP8266WiFi.h Lib: https://bit.ly/2JevzDd
+2. Adafruit_GFX.h Lib: https://bit.ly/2UhgvLq
+3. Adafruit_SSD1306.h Lib: https://bit.ly/2Uhb8Mc
 
