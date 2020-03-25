@@ -23,6 +23,8 @@ This project is completely based on Realtime data from the Ministry of Family We
 
 <h3> Links of the Libraries. </h3>
 1. ESP8266WiFi.h Lib: https://bit.ly/2JevzDd
+
 2. Adafruit_GFX.h Lib: https://bit.ly/2UhgvLq
+
 3. Adafruit_SSD1306.h Lib: https://bit.ly/2Uhb8Mc
 
